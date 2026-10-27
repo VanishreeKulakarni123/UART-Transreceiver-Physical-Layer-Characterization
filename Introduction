@@ -1,6 +1,0 @@
-Introduction
-
-
-
-UART (Universal Asynchronous Receiver-Transmitter) is a serial communication protocol used to transfer data between electronic devices. Physical layer characterization involves studying the electrical properties of UART communication, including voltage levels, idle conditions, start and stop bits, transmission distance, signal delay, and noise effects. This study helps determine whether the selected physical connection provides reliable data transmission under the given operating conditions.      
-
